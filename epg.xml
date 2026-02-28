@@ -1,605 +1,452 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="epg-vivoplay" source-info-url="https://www.vivotv.com.br">
   <channel id="LCH108">
-    <display-name>649</display-name>
     <display-name>Space HD</display-name>
   </channel>
   <channel id="LCH111">
-    <display-name>686</display-name>
     <display-name>Telecine Action HD</display-name>
   </channel>
   <channel id="LCH112">
-    <display-name>689</display-name>
     <display-name>Telecine Pipoca HD</display-name>
   </channel>
   <channel id="LCH119">
-    <display-name>685</display-name>
     <display-name>Telecine HD</display-name>
   </channel>
   <channel id="LCH1210">
-    <display-name>537</display-name>
     <display-name>SporTV 3</display-name>
   </channel>
   <channel id="LCH123">
-    <display-name>721</display-name>
     <display-name>Premiere </display-name>
   </channel>
   <channel id="LCH1242">
-    <display-name>621</display-name>
     <display-name>Discovery World</display-name>
   </channel>
   <channel id="LCH1252">
-    <display-name>623</display-name>
     <display-name>TLC HD</display-name>
   </channel>
   <channel id="LCH1253">
-    <display-name>600</display-name>
     <display-name>Discovery Turbo HD</display-name>
   </channel>
   <channel id="LCH126">
-    <display-name>648</display-name>
     <display-name>TNT</display-name>
   </channel>
   <channel id="LCH128">
-    <display-name>628</display-name>
     <display-name>Adult Swim</display-name>
   </channel>
   <channel id="LCH142">
-    <display-name>722</display-name>
     <display-name>Premiere 2</display-name>
   </channel>
   <channel id="LCH144">
-    <display-name>572</display-name>
     <display-name>ESPN 4</display-name>
   </channel>
   <channel id="LCH147">
-    <display-name>551</display-name>
     <display-name>Gloob HD</display-name>
   </channel>
   <channel id="LCH149">
-    <display-name>596</display-name>
     <display-name>History HD</display-name>
   </channel>
   <channel id="LCH150">
-    <display-name>645</display-name>
     <display-name>A&amp;E HD</display-name>
   </channel>
   <channel id="LCH151">
-    <display-name>536</display-name>
     <display-name>OFF HD</display-name>
   </channel>
   <channel id="LCH152">
-    <display-name>641</display-name>
     <display-name>Sony HD</display-name>
   </channel>
   <channel id="LCH154">
-    <display-name>687</display-name>
     <display-name>Telecine Touch HD</display-name>
   </channel>
   <channel id="LCH155">
-    <display-name>688</display-name>
     <display-name>Telecine Fun HD</display-name>
   </channel>
   <channel id="LCH157">
-    <display-name>640</display-name>
     <display-name>Warner HD</display-name>
   </channel>
   <channel id="LCH158">
-    <display-name>644</display-name>
     <display-name>AXN HD</display-name>
   </channel>
   <channel id="LCH182">
-    <display-name>665</display-name>
     <display-name>HBO HD</display-name>
   </channel>
   <channel id="LCH1995">
-    <display-name>724</display-name>
     <display-name>Premiere 4</display-name>
   </channel>
   <channel id="LCH1996">
-    <display-name>725</display-name>
     <display-name>Premiere 5</display-name>
   </channel>
   <channel id="LCH204">
-    <display-name>402</display-name>
     <display-name>RIT</display-name>
   </channel>
   <channel id="LCH2055">
-    <display-name>625</display-name>
     <display-name>Lifetime HD</display-name>
   </channel>
   <channel id="LCH2064">
-    <display-name>631</display-name>
     <display-name>Chef TV</display-name>
   </channel>
   <channel id="LCH2066">
-    <display-name>589</display-name>
     <display-name>C3 TV</display-name>
   </channel>
   <channel id="LCH2067">
-    <display-name>584</display-name>
     <display-name>CNNi</display-name>
   </channel>
   <channel id="LCH2071">
-    <display-name>702</display-name>
     <display-name>DW</display-name>
   </channel>
   <channel id="LCH2073">
-    <display-name>626</display-name>
     <display-name>E! HD</display-name>
   </channel>
   <channel id="LCH2080">
-    <display-name>653</display-name>
     <display-name>Studio Universal</display-name>
   </channel>
   <channel id="LCH2090">
-    <display-name>701</display-name>
     <display-name>RAI</display-name>
   </channel>
   <channel id="LCH2091">
-    <display-name>586</display-name>
     <display-name>Record News</display-name>
   </channel>
   <channel id="LCH2093">
-    <display-name>652</display-name>
     <display-name>USA</display-name>
   </channel>
   <channel id="LCH2102">
-    <display-name>557</display-name>
     <display-name>Tooncast</display-name>
   </channel>
   <channel id="LCH2104">
-    <display-name>705</display-name>
     <display-name>TV5Monde</display-name>
   </channel>
   <channel id="LCH2105">
-    <display-name>706</display-name>
     <display-name>TVE</display-name>
   </channel>
   <channel id="LCH2106">
-    <display-name>565</display-name>
     <display-name>Woohoo</display-name>
   </channel>
   <channel id="LCH211">
-    <display-name>569</display-name>
     <display-name>ESPN</display-name>
   </channel>
   <channel id="LCH213">
-    <display-name>540</display-name>
     <display-name>Globo News HD</display-name>
   </channel>
   <channel id="LCH214">
-    <display-name>541</display-name>
     <display-name>GNT HD</display-name>
   </channel>
   <channel id="LCH215">
-    <display-name>542</display-name>
     <display-name>Multishow</display-name>
   </channel>
   <channel id="LCH216">
-    <display-name>539</display-name>
     <display-name>Sportv</display-name>
   </channel>
   <channel id="LCH217">
-    <display-name>538</display-name>
     <display-name>Sportv 2</display-name>
   </channel>
   <channel id="LCH2172">
-    <display-name>703</display-name>
     <display-name>SIC Internacional</display-name>
   </channel>
   <channel id="LCH218">
-    <display-name>690</display-name>
     <display-name>Telecine Cult HD</display-name>
   </channel>
   <channel id="LCH2199">
-    <display-name>595</display-name>
     <display-name>Animal Planet</display-name>
   </channel>
   <channel id="LCH2439">
-    <display-name>728</display-name>
     <display-name>Premiere 8</display-name>
   </channel>
   <channel id="LCH2440">
-    <display-name>726</display-name>
     <display-name>Premiere 6</display-name>
   </channel>
   <channel id="LCH2441">
-    <display-name>727</display-name>
     <display-name>Premiere 7</display-name>
   </channel>
   <channel id="LCH2442">
-    <display-name>585</display-name>
     <display-name>Bloomberg HD</display-name>
   </channel>
   <channel id="LCH2443">
-    <display-name>553</display-name>
     <display-name>TV RÁ Tim Bum</display-name>
   </channel>
   <channel id="LCH2444">
-    <display-name>646</display-name>
     <display-name>Prime Box Brazil HD</display-name>
   </channel>
   <channel id="LCH2449">
-    <display-name>597</display-name>
     <display-name>History 2</display-name>
   </channel>
   <channel id="LCH2792">
-    <display-name>627</display-name>
     <display-name>Arte 1 HD</display-name>
   </channel>
   <channel id="LCH2793">
-    <display-name>629</display-name>
     <display-name>TNT Séries</display-name>
   </channel>
   <channel id="LCH2794">
-    <display-name>560</display-name>
     <display-name>Cartoonito</display-name>
   </channel>
   <channel id="LCH2795">
-    <display-name>583</display-name>
     <display-name>Bandnews</display-name>
   </channel>
   <channel id="LCH2889">
-    <display-name>524</display-name>
     <display-name>Futura HD</display-name>
   </channel>
   <channel id="LCH3087">
-    <display-name>519</display-name>
     <display-name>Band Rio HD</display-name>
   </channel>
   <channel id="LCH3131">
-    <display-name>514</display-name>
     <display-name>SBT Nova Friburgo</display-name>
   </channel>
   <channel id="LCH3286">
-    <display-name>601</display-name>
     <display-name>Discovery Science HD</display-name>
   </channel>
   <channel id="LCH3379">
-    <display-name>632</display-name>
     <display-name>Fish TV</display-name>
   </channel>
   <channel id="LCH3401">
-    <display-name>511</display-name>
     <display-name>Rede Século 21</display-name>
   </channel>
   <channel id="LCH3544">
-    <display-name>603</display-name>
     <display-name>FashionTV HD</display-name>
   </channel>
   <channel id="LCH3545">
-    <display-name>574</display-name>
     <display-name>ESPN 6</display-name>
   </channel>
   <channel id="LCH3546">
-    <display-name>529</display-name>
     <display-name>Rede Vida HD</display-name>
   </channel>
   <channel id="LCH3648">
-    <display-name>530</display-name>
     <display-name>TV Aparecida HD</display-name>
   </channel>
   <channel id="LCH3649">
-    <display-name>503</display-name>
     <display-name>TV Brasil HD</display-name>
   </channel>
   <channel id="LCH3650">
-    <display-name>700</display-name>
     <display-name>NHK HD</display-name>
   </channel>
   <channel id="LCH3651">
-    <display-name>604</display-name>
     <display-name>Travel Box Brazil HD</display-name>
   </channel>
   <channel id="LCH3652">
-    <display-name>531</display-name>
     <display-name>Canção Nova</display-name>
   </channel>
   <channel id="LCH3872">
-    <display-name>549</display-name>
     <display-name>Gloobinho HD</display-name>
   </channel>
   <channel id="LCH3874">
-    <display-name>619</display-name>
     <display-name>Food Network HD</display-name>
   </channel>
   <channel id="LCH39">
-    <display-name>593</display-name>
     <display-name>Discovery Theater</display-name>
   </channel>
   <channel id="LCH3960">
-    <display-name>618</display-name>
     <display-name>HGTV HD</display-name>
   </channel>
   <channel id="LCH4050">
-    <display-name>526</display-name>
     <display-name>Rede Brasil HD</display-name>
   </channel>
   <channel id="LCH4071">
-    <display-name>517</display-name>
     <display-name>REDETV HD</display-name>
   </channel>
   <channel id="LCH4089">
-    <display-name>1176</display-name>
     <display-name>Inter TV Alto Litoral - Globo HD</display-name>
   </channel>
   <channel id="LCH4103">
-    <display-name>630</display-name>
     <display-name>Trace Brasil</display-name>
   </channel>
   <channel id="LCH4104">
-    <display-name>587</display-name>
     <display-name>Agro+</display-name>
   </channel>
   <channel id="LCH459">
-    <display-name>666</display-name>
     <display-name>HBO2</display-name>
   </channel>
   <channel id="LCH460">
-    <display-name>669</display-name>
     <display-name>HBO Family HD</display-name>
   </channel>
   <channel id="LCH461">
-    <display-name>670</display-name>
     <display-name>HBO Signature HD</display-name>
   </channel>
   <channel id="LCH462">
-    <display-name>667</display-name>
     <display-name>HBO Plus HD</display-name>
   </channel>
   <channel id="LCH464">
-    <display-name>570</display-name>
     <display-name>ESPN 2</display-name>
   </channel>
   <channel id="LCH49">
-    <display-name>571</display-name>
     <display-name>ESPN 3</display-name>
   </channel>
   <channel id="LCH5480">
-    <display-name>637</display-name>
     <display-name>Music Box Brazil</display-name>
   </channel>
   <channel id="LCH5552">
-    <display-name>617</display-name>
     <display-name>Sabor &amp; Arte</display-name>
   </channel>
   <channel id="LCH5553">
-    <display-name>582</display-name>
     <display-name>Terra Viva</display-name>
   </channel>
   <channel id="LCH5554">
-    <display-name>401</display-name>
     <display-name>TV Novo Tempo</display-name>
   </channel>
   <channel id="LCH5573">
-    <display-name>581</display-name>
     <display-name>Jovem Pan News</display-name>
   </channel>
   <channel id="LCH5577">
-    <display-name>580</display-name>
     <display-name>BBC World</display-name>
   </channel>
   <channel id="LCH5578">
-    <display-name>660</display-name>
     <display-name>Eurochannel</display-name>
   </channel>
   <channel id="LCH5580">
-    <display-name>639</display-name>
     <display-name>AMC</display-name>
   </channel>
   <channel id="LCH5581">
-    <display-name>638</display-name>
     <display-name>Film &amp; Arts</display-name>
   </channel>
   <channel id="LCH56">
-    <display-name>544</display-name>
     <display-name>Modo Viagem</display-name>
   </channel>
   <channel id="LCH5629">
-    <display-name>554</display-name>
     <display-name>Dreamworks</display-name>
   </channel>
   <channel id="LCH5630">
-    <display-name>556</display-name>
     <display-name>dumdum</display-name>
   </channel>
   <channel id="LCH5631">
-    <display-name>561</display-name>
     <display-name>Box Kids</display-name>
   </channel>
   <channel id="LCH5670">
-    <display-name>729</display-name>
     <display-name>Premiere 9</display-name>
   </channel>
   <channel id="LCH6232">
-    <display-name>611</display-name>
     <display-name>Markket</display-name>
   </channel>
   <channel id="LCH6284">
-    <display-name>590</display-name>
     <display-name>Canal Rural</display-name>
   </channel>
   <channel id="LCH6285">
-    <display-name>591</display-name>
     <display-name>Canal do Criador</display-name>
   </channel>
   <channel id="LCH6356">
-    <display-name>661</display-name>
     <display-name>SONY Movies</display-name>
   </channel>
   <channel id="LCH6485">
-    <display-name>579</display-name>
     <display-name>BM&amp;C</display-name>
   </channel>
   <channel id="LCH6520">
-    <display-name>527</display-name>
     <display-name>RBI</display-name>
   </channel>
   <channel id="LCH653">
-    <display-name>647</display-name>
     <display-name>TNT Novelas</display-name>
   </channel>
   <channel id="LCH6535">
-    <display-name>562</display-name>
     <display-name>Yupi</display-name>
   </channel>
   <channel id="LCH6540">
-    <display-name>612</display-name>
     <display-name>LMC+</display-name>
   </channel>
   <channel id="LCH677">
-    <display-name>543</display-name>
     <display-name>Globoplay Novelas</display-name>
   </channel>
   <channel id="LCH6936">
-    <display-name>761</display-name>
     <display-name>Canal de Eventos</display-name>
   </channel>
   <channel id="LCH6995">
-    <display-name>567</display-name>
     <display-name>NSports</display-name>
   </channel>
   <channel id="LCH7064">
-    <display-name>578</display-name>
     <display-name>CNN Money</display-name>
   </channel>
   <channel id="LCH7065">
-    <display-name>592</display-name>
     <display-name>TIMES EXCLUSIVO CNBC</display-name>
   </channel>
   <channel id="LCH7066">
-    <display-name>613</display-name>
     <display-name>UOL</display-name>
   </channel>
   <channel id="LCH7120">
-    <display-name>566</display-name>
     <display-name>SportyNet</display-name>
   </channel>
   <channel id="LCH7141">
-    <display-name>673</display-name>
     <display-name>HBO Xtreme HD</display-name>
   </channel>
   <channel id="LCH7142">
-    <display-name>657</display-name>
     <display-name>TCM</display-name>
   </channel>
   <channel id="LCH7154">
-    <display-name>605</display-name>
     <display-name>Play TV</display-name>
   </channel>
   <channel id="LCH7155">
-    <display-name>606</display-name>
     <display-name>TBC</display-name>
   </channel>
   <channel id="LCH7179">
-    <display-name>522</display-name>
     <display-name>Xsports</display-name>
   </channel>
   <channel id="LCH7180">
-    <display-name>575</display-name>
     <display-name>Bandsports HD</display-name>
   </channel>
   <channel id="LCH7181">
-    <display-name>7613</display-name>
     <display-name>CNN Brasil</display-name>
   </channel>
   <channel id="LCH7182">
-    <display-name>534</display-name>
     <display-name>GE</display-name>
   </channel>
   <channel id="LCH7183">
-    <display-name>404</display-name>
     <display-name>RB News</display-name>
   </channel>
   <channel id="LCH7184">
-    <display-name>403</display-name>
     <display-name>RBTV</display-name>
   </channel>
   <channel id="LCH7185">
-    <display-name>532</display-name>
     <display-name>TV Evangelizar</display-name>
   </channel>
   <channel id="LCH7190">
-    <display-name>608</display-name>
     <display-name>TV Oeste</display-name>
   </channel>
   <channel id="LCH7195">
-    <display-name>564</display-name>
     <display-name>Woohoo Surf</display-name>
   </channel>
   <channel id="LCH7196">
-    <display-name>576</display-name>
     <display-name>SBT News</display-name>
   </channel>
   <channel id="LCH76">
-    <display-name>671</display-name>
     <display-name>HBO Pop HD</display-name>
   </channel>
   <channel id="LCH769">
-    <display-name>594</display-name>
     <display-name>Discovery HD</display-name>
   </channel>
   <channel id="LCH770">
-    <display-name>550</display-name>
     <display-name>Discovery Kids HD</display-name>
   </channel>
   <channel id="LCH771">
-    <display-name>622</display-name>
     <display-name>Discovery Home&amp;Health HD</display-name>
   </channel>
   <channel id="LCH772">
-    <display-name>658</display-name>
     <display-name>ID</display-name>
   </channel>
   <channel id="LCH773">
-    <display-name>559</display-name>
     <display-name>Cartoon HD</display-name>
   </channel>
   <channel id="LCH79">
-    <display-name>655</display-name>
     <display-name>Megapix HD</display-name>
   </channel>
   <channel id="LCH81">
-    <display-name>535</display-name>
     <display-name>BIS HD</display-name>
   </channel>
   <channel id="LCH855">
-    <display-name>573</display-name>
     <display-name>ESPN 5</display-name>
   </channel>
   <channel id="LCH891">
-    <display-name>527</display-name>
     <display-name>Gazeta HD</display-name>
   </channel>
   <channel id="LCH929">
-    <display-name>656</display-name>
     <display-name>Canal Brasil HD</display-name>
   </channel>
   <channel id="LCH930">
-    <display-name>513</display-name>
     <display-name>Cultura HD</display-name>
   </channel>
   <channel id="LCH932">
-    <display-name>650</display-name>
     <display-name>Cinemax HD</display-name>
   </channel>
   <channel id="LCH933">
-    <display-name>672</display-name>
     <display-name>HBO Mundi HD</display-name>
   </channel>
   <channel id="LCH936">
-    <display-name>654</display-name>
     <display-name>Universal TV HD</display-name>
   </channel>
   <channel id="LCH937">
-    <display-name>723</display-name>
     <display-name>Premiere 3</display-name>
   </channel>
-  <programme start="20260228174500 +0000" stop="20260228184500 +0000" channel="LCH3131">
-    <title>Eita Lucas!</title>
-    <desc>Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura.</desc>
-  </programme>
   <programme start="20260228180000 +0000" stop="20260228220000 +0000" channel="LCH7184">
     <title>Programação RBTV</title>
   </programme>
@@ -609,10 +456,6 @@
   <programme start="20260228180000 +0000" stop="20260228203000 +0000" channel="LCH4071">
     <title>Show da Saúde Pillowmed</title>
     <desc>Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
-  </programme>
-  <programme start="20260228181500 +0000" stop="20260228184500 +0000" channel="LCH4089">
-    <title>Pode Entrar</title>
-    <desc>Viaje pelas cidades do interior para conversar com personagens da cena cultural da cidade.</desc>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228200000 +0000" channel="LCH3401">
     <title>Mulher.com</title>
@@ -629,10 +472,6 @@
   <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="LCH3649">
     <title>Expedições</title>
     <desc>O programa leva o público a viajar por lugares espetaculares do Brasil.</desc>
-  </programme>
-  <programme start="20260228183000 +0000" stop="20260228184500 +0000" channel="LCH930">
-    <title>Pequenos Mestres : Madeira</title>
-    <desc>No Vale do Catimbau, o escultor José Bezerra e seus netos criam obras de madeira. Mestre Luis Benício e sua família são artistas do sertão.</desc>
   </programme>
   <programme start="20260228184500 +0000" stop="20260228191500 +0000" channel="LCH4089">
     <title>Escolinha do Professor Raimundo</title>
@@ -2703,6 +2542,14 @@
     <title>Conselhos e Oração</title>
     <desc>Irmã Luiza atende por telefone dezenas de pessoas que buscam respostas para suas dores.</desc>
   </programme>
+  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="LCH3401">
+    <title>Novena Perpétua das Mãos Ensanguentadas de Jesus</title>
+    <desc>Leitura e comentários da novena das mãos ensanguentadas de Jesus.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="LCH930">
+    <title>Irmão do Jorel : Ilha Doideira</title>
+    <desc>A família ganha uma viagem de volta ao mundo da Aerolínea Shostners e acaba descobrindo um país fascinante governado por um carente homem excêntrico que precisa de um novo irmãozinho.</desc>
+  </programme>
   <programme start="20260228160000 +0000" stop="20260228200000 +0000" channel="LCH891">
     <title>Gazeta Shopping</title>
     <desc>Acompanhe ofertas e lançamentos em diversos segmentos do mercado.</desc>
@@ -2717,10 +2564,6 @@
   <programme start="20260228180000 +0000" stop="20260228194500 +0000" channel="LCH3648">
     <title>Catedral Metropolitana Nossa Senhora da Ponte : Santa Missa</title>
     <desc>Eventos realizados na Catedral Metropolitana Nossa Senhora da Ponte, em Sorocaba, São Paulo.</desc>
-  </programme>
-  <programme start="20260228180000 +0000" stop="20260228184500 +0000" channel="LCH3087">
-    <title>Band Esporte Clube</title>
-    <desc>Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.</desc>
   </programme>
   <programme start="20260228180000 +0000" stop="20260228210000 +0000" channel="LCH6520">
     <title>PillowMed - Show da Saúde</title>
@@ -5031,9 +4874,21 @@
     <title>Sabores da Floresta : Cupuaçu</title>
     <desc>Em Tomé-Açú vive uma das mais antigas comunidades japonesas da Amazônia, e a plantação do cupuaçu une a tradição nipônica à produção de uma das frutas mais usadas na culinária da região.</desc>
   </programme>
-  <programme start="20260228175200 +0000" stop="20260228184500 +0000" channel="LCH151">
-    <title>Kailani Jabour na Coreia do Norte</title>
-    <desc>Kailani Jabour embarca em uma viagem inédita e vai em busca das ondas mais famosas e inexploradas da Coreia do Norte.</desc>
+  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="LCH3546">
+    <title>Terço Bizantino</title>
+    <desc>Abençoando o dia do telespectador, Padre Marcelo Rossi reza com o público pela saúde, pelo trabalho, pela fé e pela família brasileira quatro vezes por dia.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="LCH891">
+    <title>Gazeta News</title>
+    <desc>O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302205500 +0000" channel="LCH3648">
+    <title>Escola de Maria</title>
+    <desc>O arcebispo de Aparecida, Dom Orlando Brandes, reflete e fala sobre Maria.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302213000 +0000" channel="LCH3652">
+    <title>Terço Mariano</title>
+    <desc>Recitação do santo terço diário, com apresentação das intenções e reza do terço.</desc>
   </programme>
   <programme start="20260228180000 +0000" stop="20260228203000 +0000" channel="LCH213">
     <title>Jornal GloboNews - Edição das 15 Horas</title>
@@ -5046,10 +4901,6 @@
   <programme start="20260228180200 +0000" stop="20260228194500 +0000" channel="LCH81">
     <title>Dois Amigos, um Século de Música</title>
     <desc>Caetano Veloso e Gilberto Gil comemoram 50 anos de carreira com o lançamento da turnê &quot;Dois Amigos, um Século de Música&quot;. Confira este show da dupla em São Paulo, Brasil.</desc>
-  </programme>
-  <programme start="20260228180300 +0000" stop="20260228184500 +0000" channel="LCH215">
-    <title>Tapas &amp; Beijos : Fátima e Sueli Encaram Novos...</title>
-    <desc>O incêndio no brechó leva Fátima e Sueli a encararem novos desafios profissionais; Fátima volta para a Djalma Noivas e tem como novo colega de trabalho Armane.</desc>
   </programme>
   <programme start="20260228180900 +0000" stop="20260228203200 +0000" channel="LCH217">
     <title>Semifinal: Cruzeiro x Minas - Sul-Americano de Clubes de Vôlei Masculino : Semifinal: Cruzeiro x Minas</title>
@@ -7399,44 +7250,21 @@
     <title>Grêmio x Corinthians - Campeonato Brasileiro Sub-20 : Grêmio x Corinthians</title>
     <desc>As emoções da principal competição nacional de futebol masculino entre clubes na categoria sub-20.</desc>
   </programme>
-  <programme start="20260228170000 +0000" stop="20260228185000 +0000" channel="LCH5629">
-    <title>Uma Aventura LEGO 2</title>
-    <desc>Cinco anos depois, os heróis de Bricópolis voltaram em uma aventura épica para salvar sua amada cidade. Emmet, Lucy e Batman precisam impedir que os invasores do espaço sideral destruam seu lar, mais rápido do que é possível reconstruir.</desc>
+  <programme start="20260302204500 +0000" stop="20260302210000 +0000" channel="LCH215">
+    <title>Rede BBB</title>
+    <desc>Apresenta flashes com os últimos acontecimentos da casa.</desc>
   </programme>
-  <programme start="20260228182000 +0000" stop="20260228184000 +0000" channel="LCH3872">
-    <title>Vera e o Reino do Arco-Íris : Salvando o Halloween</title>
-    <desc>Vera e seus amigos entram em ação quando um pé-grande faminto come um doce falso e transforma quase todos em Uivantes Verdes.</desc>
+  <programme start="20260302204700 +0000" stop="20260302213000 +0000" channel="LCH214">
+    <title>Que Marravilha! : Para Meus Filhos</title>
+    <desc>Claude e Carola fazem as receitas que os filhos amam. Claude e Batista preparam um peixe no forno com lentilhas e Carola, um bolo de cenoura. Thomas Troisgros é o convidado do dia.</desc>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="LCH2443">
     <title>Qual É, Bicho? : Hospital Animal</title>
     <desc>O primo de Camila vem do interior para prestar vestibular em São Paulo. Ele chega no zoológico para uma visita e Camila lhe mostra orgulhosamente como funciona o departamento veterinário.</desc>
   </programme>
-  <programme start="20260228183000 +0000" stop="20260228184200 +0000" channel="LCH770">
-    <title>44 Gatos : Um Jogo para os Buffycats</title>
-    <desc>Os Buffycats montaram uma caça ao tesouro para se divertirem juntos; eles têm que encontrar uma série de objetos pela cidade, mas o jogo se torna bastante complicado.</desc>
-  </programme>
-  <programme start="20260228183100 +0000" stop="20260228184500 +0000" channel="LCH5630">
-    <title>Brincando com Caetano e Vicente : Caixa Misteriosa</title>
-    <desc>Com Caetano e Vicente, cada dia é uma nova aventura. Entre histórias, jogos e descobertas, a diversão se mistura com o aprendizado de um jeito leve e criativo. Um espaço para imaginar, explorar e crescer brincando.</desc>
-  </programme>
   <programme start="20260228183500 +0000" stop="20260228185900 +0000" channel="LCH56">
     <title>Mundo Muyloco : Japão - Tsukiji Market</title>
     <desc>Fernando Muylaert invade o tradicional e maior mercado de peixes do mundo, o Tsukiji Market, e conhece outras coisas curiosas que só o Japão tem.</desc>
-  </programme>
-  <programme start="20260228183500 +0000" stop="20260228184700 +0000" channel="LCH147">
-    <title>Alvinnn!!! E os Esquilos : Só para Membros</title>
-    <desc>Alvin ajuda alguns alunos a enfrentar os valentões da escola. Mas, no processo, eles se tornam as pessoas que fazem bullying.</desc>
-  </programme>
-  <programme start="20260228183500 +0000" stop="20260228184600 +0000" channel="LCH2794">
-    <title>O Pequeno Grande Mundo de Jéssica : Brinquedo Misterioso</title>
-    <desc>Jessica e seus amigos encontram um brinquedo no parquinho e não querem dividi-lo.</desc>
-  </programme>
-  <programme start="20260228183600 +0000" stop="20260228184400 +0000" channel="LCH773">
-    <title>Maluzinha : Pesadelo no Cinema</title>
-  </programme>
-  <programme start="20260228183700 +0000" stop="20260228184600 +0000" channel="LCH2102">
-    <title>Corrida Maluca : Grande Prêmio Arkansas</title>
-    <desc>Os Irmãos Rocha são sabotados por Dick Vigarista e agora buscam vingança; Penélope Charmosa se perde no meio da corrida; uma confusão no trânsito dificulta a vida de todos os competidores.</desc>
   </programme>
   <programme start="20260228184000 +0000" stop="20260228190000 +0000" channel="LCH3872">
     <title>Vera e o Reino do Arco-Íris : O Festival das Segurárvores</title>
@@ -17246,13 +17074,57 @@
     <title>A Cozinha do Chef Luca : Macarrão</title>
     <desc>O Chef Luca e sua mãe ensinam como preparar macarrão.</desc>
   </programme>
+  <programme start="20260302204000 +0000" stop="20260302205000 +0000" channel="LCH2443">
+    <title>Recreio do Jacarelvis : Descobrindo as Fantasias e Muito Mais!</title>
+    <desc>Descubra qual fantasia o Jacarelvis vai vestir e aprenda o som do Violino. No teatrinho, o Jacarelvis encontra um tipo diferente de lâmpada mágica. Para terminar, a música do Jacaré Careca.</desc>
+  </programme>
+  <programme start="20260302204000 +0000" stop="20260302205200 +0000" channel="LCH773">
+    <title>Irmão do Jorel : Minha Melhor Melhor Amiga</title>
+    <desc>Apesar de ter oficialmente entrado na pré-adolescência, Irmão do Jorel sente que continua o mesmo. Ele percebe que todos ao redor mudaram, principalmente a Lara, que arrumou uma nova melhor amiga.</desc>
+  </programme>
+  <programme start="20260302204000 +0000" stop="20260302210300 +0000" channel="LCH770">
+    <title>Peppa</title>
+    <desc>Um amigo de Peppa usa óculos e ela começa a achar que também precisa usar. A Mamãe Porquinho a leva a um oftalmologista para fazer um exame de vista; o Sr. Zebra, o carteiro, está entregando cartas, e hoje sua filha Zoe está ajudando.</desc>
+  </programme>
+  <programme start="20260302204000 +0000" stop="20260302205000 +0000" channel="LCH3872">
+    <title>Milo : Milo, o Apresentador de TV</title>
+    <desc>Milo, Lofty e Lark recebem a tarefa de apresentar o programa diurno do Chef Pierre. O programa se transforma em caos quando tentam seguir o roteiro. As crianças precisam aprender que, às vezes, os apresentadores de TV precisam seguir o fluxo.</desc>
+  </programme>
+  <programme start="20260302204000 +0000" stop="20260302204400 +0000" channel="LCH5630">
+    <title>A Cozinha do Chef Luca : Bolo Diet de Banana</title>
+    <desc>O Chef Luca e sua mãe ensinam o preparo de um bolo de banana saudável.</desc>
+  </programme>
+  <programme start="20260302204100 +0000" stop="20260302205300 +0000" channel="LCH2102">
+    <title>Oswaldo : Sinédoque Oswaldo</title>
+    <desc>Os alunos estão apresentando redações sobre suas férias. Geovan lê sua redação, que acaba sendo um interminável &quot;tic tac&quot;, e é interrompido pelo Professor Gibraltar. Na vez de Oswaldo, o sinal toca.</desc>
+  </programme>
+  <programme start="20260302204300 +0000" stop="20260302205500 +0000" channel="LCH2794">
+    <title>Hey Fuzzy Yellow : Caminhada no Elevador Mundial</title>
+    <desc>Batata e Lua caminham pelas montanhas, enquanto Fuzzy Yellow, Bennu e Marzipan notam um pequeno planeta pairando sobre a casa de Marzipan e pegam uma carona até o novo mundo para explorá-lo.</desc>
+  </programme>
+  <programme start="20260302204400 +0000" stop="20260302210000 +0000" channel="LCH5630">
+    <title>Hora do Jacarelvis e Amigos</title>
+    <desc>Jacarelvis apresenta uma seleção de músicas divertidas; os amigos aprendem a tocar flauta e exploram diferentes notas e melodias; Jacarelvis e turma se divertem jogando futebol; Jacarelvis e amigos embarcam em uma divertida caça ao tesouro.</desc>
+  </programme>
+  <programme start="20260302204600 +0000" stop="20260302211000 +0000" channel="LCH56">
+    <title>Destinos do Sabor : Altto Ristorante, Gávio e Restaurante Samba Pa Ti</title>
+    <desc>O programa visita o conceituado Altto Ristorante em Búzios, o sofisticado Gávio em Campinas e o charmoso Restaurante Samba Pa Ti.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302210000 +0000" channel="LCH2443">
+    <title>Patrulha do Futuro : Indústria, Inovação e Infraestrutura</title>
+    <desc>As aventuras da turminha de amigos conhecida no bairro como Patrulha do Futuro. Juntos, essa galera aprende conceitos como sustentabilidade, acessibilidade, cooperação, inclusão, empatia, cidadania e respeito às diferenças.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302211300 +0000" channel="LCH147">
+    <title>Miraculous - As Aventuras de Ladybug : Júbilo</title>
+    <desc>Marinette fica surpresa ao descobrir que uma ex-colega de escola, Jacqueline, está se passando por Ladybug; ela tenta dissuadi-la de se arriscar dessa forma, mas Monarch está de olho nela.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302205500 +0000" channel="LCH3872">
+    <title>Mya Go : Sorvete</title>
+    <desc>Mya Go e os amigos esperam a van da Betty Sorvete passar, mas descobrem que ela ficou sem leite. O grupo sai à procura do ingrediente, para que todos possam tomar sorvete.</desc>
+  </programme>
   <programme start="20260228165500 +0000" stop="20260228190000 +0000" channel="LCH144">
     <title>Galatasaray x Alanyaspor - Campeonato Turco de Futebol : Galatasaray x Alanyaspor</title>
     <desc>Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia.</desc>
-  </programme>
-  <programme start="20260228170000 +0000" stop="20260228184500 +0000" channel="LCH6995">
-    <title>Um Assado para</title>
-    <desc>Duda Garbi recebe convidados e conversa sobre o que rola no mundo da bola, histórias e muito mais.</desc>
   </programme>
   <programme start="20260228171500 +0000" stop="20260228193000 +0000" channel="LCH211">
     <title>Leeds United x Manchester City - Campeonato Inglês : Leeds United x Manchester City</title>
@@ -17270,25 +17142,9 @@
     <title>Borussia Dortmund x Bayern de Munique - Campeonato Alemão : Borussia Dortmund x Bayern de Munique</title>
     <desc>Todas as emoções das partidas da Bundesliga, primeira divisão de futebol masculino da Alemanha.</desc>
   </programme>
-  <programme start="20260228182400 +0000" stop="20260228184100 +0000" channel="LCH6535">
-    <title>Giramille</title>
-    <desc>A professora Giramille e seus amigos ensinam de forma divertida e inteligente em um universo mágico.</desc>
-  </programme>
   <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="LCH2106">
     <title>Eu Mega Recomendo</title>
     <desc>Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
-  </programme>
-  <programme start="20260228183000 +0000" stop="20260228184500 +0000" channel="LCH5631">
-    <title>Bubu e as Corujinhas : Noite de Dia</title>
-    <desc>A Família Coruja está muito animada para a Expedição Eclipse. Lá, a família vai observar um extraordinário e belíssimo espetáculo da natureza. Mas, durante os preparativos, Bubu e Biel iniciam uma pequena disputa entre irmãos.</desc>
-  </programme>
-  <programme start="20260228183600 +0000" stop="20260228184100 +0000" channel="LCH7195">
-    <title>Surf Kidz</title>
-    <desc>Viajar e surfar é muito bom, e quando junta a família fica ainda melhor. Os irmãos Maria Clara, João Victor e João Lucas preenche a tela com muita fofura, energia e disposição para surfar as melhores ondas do Brasil.</desc>
-  </programme>
-  <programme start="20260228184100 +0000" stop="20260228184500 +0000" channel="LCH7195">
-    <title>Surf Kidz</title>
-    <desc>Viajar e surfar é muito bom, e quando junta a família fica ainda melhor. Os irmãos Maria Clara, João Victor e João Lucas preenche a tela com muita fofura, energia e disposição para surfar as melhores ondas do Brasil.</desc>
   </programme>
   <programme start="20260228184100 +0000" stop="20260228191200 +0000" channel="LCH6535">
     <title>As Aventuras do Pinguinho e Sua Turma</title>
@@ -22311,6 +22167,34 @@
     <title>História da Cidade do México</title>
     <desc>A história de uma das cidades mais tradicionais no futebol, que recebe a Copa do Mundo da Fifa 2026.</desc>
   </programme>
+  <programme start="20260302204000 +0000" stop="20260302204200 +0000" channel="LCH5631">
+    <title>Sopa de Letrinhas : Fonemas S</title>
+    <desc>Manu e seus amigos descobrem os sons da letra S. De sapos a sorvetes, cada momento é uma aventura cheia de surpresas e aprendizado, onde a imaginação voa solta e as palavras ganham vida.</desc>
+  </programme>
+  <programme start="20260302204200 +0000" stop="20260302204400 +0000" channel="LCH5631">
+    <title>Sopa de Letrinhas : Fonemas T</title>
+    <desc>Em uma jornada cheia de descobertas, Jacarelvis e seus amigos exploram os sons da letra T. De tatus a tubas, cada cena é uma nova aventura repleta de diversão e aprendizado, onde as palavras ganham vida e a imaginação voa solta.</desc>
+  </programme>
+  <programme start="20260302204400 +0000" stop="20260302204600 +0000" channel="LCH5631">
+    <title>Sopa de Letrinhas : Fonemas V</title>
+    <desc>Guga participa de aventuras em que descobre os sons da letra V. De uma vaca no pasto a um vulcão em erupção, cada cena é uma nova oportunidade de aprendizado e diversão.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302211500 +0000" channel="LCH7195">
+    <title>Saindo na Trip</title>
+    <desc>Explora restaurantes, bares, lojas e eventos imperdíveis nas melhores cidades do mundo. Um convite para descobrir culturas fascinantes, curiosidades inusitadas e destinos únicos de forma imersiva e autêntica.</desc>
+  </programme>
+  <programme start="20260302204600 +0000" stop="20260302204800 +0000" channel="LCH5631">
+    <title>Sopa de Letrinhas : Fonemas X</title>
+    <desc>Jacarelvis e Manu partem em uma aventura cheia de diversão enquanto exploram os sons das letras X e CH. De chaves a chuchus, cada momento é uma nova oportunidade de aprendizado e entretenimento.</desc>
+  </programme>
+  <programme start="20260302204800 +0000" stop="20260302205000 +0000" channel="LCH5631">
+    <title>Sopa de Letrinhas : Fonemas Z</title>
+    <desc>Em mais uma aventura cheia de animação, Guga e seus amigos descobrem os sons da letra Z. Desde zangões a zumbis engraçados, cada cena é uma nova oportunidade de aprendizado e diversão em um mundo cheio de surpresas.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302210000 +0000" channel="LCH5631">
+    <title>Hora da Naninha : A Garota Sabia</title>
+    <desc>A história da filha de um pai orgulhoso, que é mais sábia que o Rei Tigre e seus conselheiros. O Rei desafia a filha para criar pintinhos a partir de ovos cozidos, mas ela descobre a fraude e encontra uma solução.</desc>
+  </programme>
   <programme start="20260228165500 +0000" stop="20260228212000 +0000" channel="LCH7064">
     <title>CNN Money News - Edição de Fim de Semana</title>
     <desc>Resumo das principais notícias, entrevistas e análises sobre economia feitas ao longo da semana.</desc>
@@ -22330,10 +22214,6 @@
   <programme start="20260228180000 +0000" stop="20260228203000 +0000" channel="LCH855">
     <title>Oklahoma City Thunder x Denver Nuggets - NBA : Oklahoma City Thunder x Denver Nuggets</title>
     <desc>Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.</desc>
-  </programme>
-  <programme start="20260228181500 +0000" stop="20260228184500 +0000" channel="LCH7180">
-    <title>Acelerados</title>
-    <desc>Conheça as novidades do mercado automobilístico, além de supermáquinas e grandes clássicos.</desc>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="LCH5577">
     <title>Tech Now : Esports World Cup</title>
@@ -26283,6 +26163,10 @@
     <title>Destiladores : Congelado</title>
     <desc>Mark e Digger criam uma nova receita e transformam centenas de potes de tangerinas vencidas em licor vendável; Tickle e os Law têm problemas na produção de licor de maçã; Mike e Jerry fazem aguardente caseira de casca de bétula.</desc>
   </programme>
+  <programme start="20260302204000 +0000" stop="20260302210000 +0000" channel="LCH6284">
+    <title>No Trecho</title>
+    <desc>Série mostra os bastidores dos leilões, trazendo vivências e relatos inspiradores.</desc>
+  </programme>
   <programme start="20260228180000 +0000" stop="20260228220000 +0000" channel="LCH3544">
     <title>Joias Vip</title>
     <desc>Encontre lindas joias e relógios e peças em prata, com preços que cabem no seu bolso.</desc>
@@ -29615,16 +29499,16 @@
     <title>Desaparecidos - Mistérios da Humanidade</title>
     <desc>Novas tecnologias revelam cidades perdidas em selvas e pesquisadores se perguntam se El Dorado será a próxima. Um cristal encontrado num naufrágio pode provar que os vikings descobriram a América.</desc>
   </programme>
+  <programme start="20260302204500 +0000" stop="20260302213100 +0000" channel="LCH149">
+    <title>O Melhor de Trato Feito : Oferta da Morte</title>
+    <desc>Durante o Halloween, Rick e sua equipe se preparam para receber na loja alguns dos tesouros mais assustadores e improváveis já vistos no programa.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302211500 +0000" channel="LCH2449">
+    <title>Carangas Absurdas : Nem Todo Carro É o que Parece</title>
+    <desc>Há carros que parecem uma coisa e são outra, outros que não parecem o que são e outros que parecem várias coisas ao mesmo tempo. A poderosa Gol Rural de Felipe é um exemplo, mas o Buggy Ferrari de Rummenik e o Golf-Fusca de Bruno não ficam atrás.</desc>
+  </programme>
   <programme start="20260228160000 +0000" stop="20260228200000 +0000" channel="LCH7190">
     <title>Manifestação na Paulista com Nikolas Ferreira</title>
-  </programme>
-  <programme start="20260228175100 +0000" stop="20260228184300 +0000" channel="LCH771">
-    <title>De Casa Nova : Sonhos Doces com Chá</title>
-    <desc>Um casal de produtores de chá quer converter sua casa de fazenda em um espaço de eventos. Ben e Erin encaram o desafio de transformar a residência secular em um espaço para festas com áreas interna e externa.</desc>
-  </programme>
-  <programme start="20260228175200 +0000" stop="20260228184100 +0000" channel="LCH1252">
-    <title>Meu Grande Casamento Cigano : Casamento à Primeira Vista</title>
-    <desc>Um jovem casal encontrou o amor na internet e planeja o primeiro encontro para o dia de seu casamento; rompendo as tradicionais regras ciganas, uma estrela dos rodeios quer ganhar uma bolsa escolar.</desc>
   </programme>
   <programme start="20260228180000 +0000" stop="20260228190000 +0000" channel="LCH7066">
     <title>Acessíveis</title>
@@ -29633,10 +29517,6 @@
   <programme start="20260228180000 +0000" stop="20260228230100 +0000" channel="LCH6540">
     <title>Prime Home Decor</title>
     <desc>Loja virtual ideal para os apaixonados por decoração em que você encontra móveis, artigos de decoração e utilidades domésticas.</desc>
-  </programme>
-  <programme start="20260228181000 +0000" stop="20260228184000 +0000" channel="LCH6232">
-    <title>Encontros com o Futuro</title>
-    <desc>Estudiosos e convidados debatem as perspectivas de setores importantes da economia e dos negócios. O programa é uma parceria entre o curso de Administração da ESPM-SP, o World Observatory e a PRME - braço de Educação Executiva da ONU.</desc>
   </programme>
   <programme start="20260228182400 +0000" stop="20260228193400 +0000" channel="LCH3960">
     <title>Batalha dos Decoradores - Nova Geração : Nasce uma Estrela do Design</title>
@@ -29653,10 +29533,6 @@
   <programme start="20260228183600 +0000" stop="20260228190000 +0000" channel="LCH1242">
     <title>Casa de Praia : Vista para o Mar</title>
     <desc>Kelly e Lanny vivem com conforto em Florida Keys, mas agora procuram uma casa à beira-mar. Eles visitam três casas de estilos diferentes com vistas espetaculares para o oceano.</desc>
-  </programme>
-  <programme start="20260228184000 +0000" stop="20260228184500 +0000" channel="LCH6232">
-    <title>Box Brazil Play News : Educ(ativa)</title>
-    <desc>A jornalista Isabella Galante fala sobre seu filme &quot;Educ(ativa)&quot;, um documentário sobre educação que mostra iniciativas inovadoras em escolas, promovendo autonomia e metodologias ativas para criar uma educação mais adequada.</desc>
   </programme>
   <programme start="20260228184100 +0000" stop="20260228193000 +0000" channel="LCH1252">
     <title>Meu Grande Casamento Cigano : Você Precisa Lutar Pelo Seu Direito de Se Casar</title>
@@ -32981,6 +32857,14 @@
     <title>Vida Nova em um Novo País : Vida Nova na Hungria</title>
     <desc>Brett recebe uma oportunidade de emprego em Budapeste, na Hungria, então ele e sua esposa Sheri devem decidir se podem tirar sua família amante de surfe das praias de Júpiter, na Flórida.</desc>
   </programme>
+  <programme start="20260302204500 +0000" stop="20260302224500 +0000" channel="LCH7190">
+    <title>Oeste sem Filtro</title>
+    <desc>Análise aprofundada dos principais temas do Brasil e do mundo. Com a participação de jornalistas como Augusto Nunes, Ana Paula Henkel, Paula Leal, Silvio Navarro e Adalberto Piotto.</desc>
+  </programme>
+  <programme start="20260302204600 +0000" stop="20260302211000 +0000" channel="LCH3960">
+    <title>Desafio da Renovação : Primos Contra Namorados</title>
+    <desc>Dois primos e um casal competem para encontrar três objetos em um mercado de antiguidades.</desc>
+  </programme>
   <programme start="20260228170000 +0000" stop="20260228210000 +0000" channel="LCH4103">
     <title>Hits Non Stop</title>
     <desc>Acompanhe uma seleção de grandes sucessos musicais.</desc>
@@ -33001,17 +32885,9 @@
     <title>Million Dollar Listing Los Angeles : Apenas Nós Três</title>
     <desc>Josh Altman, Josh Flagg e Tracy Tutor estão trabalhando na mesma agência. Eles colaboram nos negócios e também disputam entre si em outro nível de competição.</desc>
   </programme>
-  <programme start="20260228182400 +0000" stop="20260228184700 +0000" channel="LCH128">
-    <title>Common Side Effects : Pilot</title>
-    <desc>Marshall Cuso aparece em Nova York com um cogumelo que pode curar qualquer doença ou ferimento; sua antiga colega de classe, Frances, o conhece por acaso, mas mantém segredo de que trabalha para a Reutical, uma empresa farmacêutica.</desc>
-  </programme>
   <programme start="20260228182500 +0000" stop="20260228200000 +0000" channel="LCH2055">
     <title>A Garota que Sobreviveu - A História de Alina Thompson</title>
     <desc>Alina Thompson, de 15 anos, sonha em ser modelo profissional, porém seu fotógrafo é um assassino em série obcecado por jovens como ela.</desc>
-  </programme>
-  <programme start="20260228183000 +0000" stop="20260228184000 +0000" channel="LCH2064">
-    <title>Na Medida Certa</title>
-    <desc>Renomado chef responde a todas as perguntas dos telespectadores sobre gastronomia. Ingredientes, utensílios, medidas e outras curiosidades, de forma dinâmica e muito prática. Receitas deliciosas e truques enriquecem o prazer de cozinhar.</desc>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228193000 +0000" channel="LCH2792">
     <title>Reel Britannia - A História do Cinema Britânico Moderno : Anos 70</title>
@@ -33020,14 +32896,6 @@
   <programme start="20260228183600 +0000" stop="20260228192400 +0000" channel="LCH2793">
     <title>Cold Case : Start-Up</title>
     <desc>Um diário eletrônico faz com que a equipe reabra um caso de uma jovem saudável que morreu de ataque cardíaco induzido por estresse quando sua empresa faliu.</desc>
-  </programme>
-  <programme start="20260228184000 +0000" stop="20260228184500 +0000" channel="LCH2064">
-    <title>Novatos na Cozinha</title>
-    <desc>Como preparar receitas deliciosas de forma prática e com ótimas dicas para iniciantes que gostam de preparar pratos simples, mas sem abrir mão da qualidade.</desc>
-  </programme>
-  <programme start="20260228184500 +0000" stop="20260228185000 +0000" channel="LCH2064">
-    <title>Leda Vai às Compras</title>
-    <desc>Venha fazer umas comprinhas com a Leda, que apresenta os lugares mais inusitados e mostra as especiarias e curiosidades culinárias desses locais. Cada programa é uma nova descoberta que revela um mundo de temperos, cheiros e cores.</desc>
   </programme>
   <programme start="20260228184700 +0000" stop="20260228191100 +0000" channel="LCH128">
     <title>Os Cavaleiros do Zodíaco : Destruam Todos os Pilares dos Sete Mares!</title>
@@ -38306,9 +38174,21 @@
     <title>Passa o Açúcar</title>
     <desc>As produções de confeitaria da Chef Lu Costa têm riqueza gastronômica resultado de um composto de inspiração, delicadeza, experiência no uso das técnicas e seleção de matérias primas de qualidade.</desc>
   </programme>
-  <programme start="20260228164600 +0000" stop="20260228184600 +0000" channel="LCH126">
-    <title>Baywatch - S.O.S Malibu</title>
-    <desc>O ex-atleta olímpico Matt Brody quer se juntar a uma equipe de salva-vidas de elite liderada por Mitch Buchannon. Quando as drogas e o suspeito dono de um resort ameaçam a baía, Mitch e Matt precisam colocar suas diferenças de lado e entrar em ação.</desc>
+  <programme start="20260302204000 +0000" stop="20260302204500 +0000" channel="LCH2064">
+    <title>Bem Melhor</title>
+    <desc>Acompanhe o programa voltado ao universo da gastronomia, viagens, turismo e bem-estar.</desc>
+  </programme>
+  <programme start="20260302204400 +0000" stop="20260302213000 +0000" channel="LCH2793">
+    <title>The Mentalist : Redemption</title>
+    <desc>Patrick usa algumas táticas duvidosas, a fim de pegar o assassino de uma mulher acusada de roubar um milhão de dólares do seu local de trabalho.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302205000 +0000" channel="LCH2064">
+    <title>Restaurantes de Charme</title>
+    <desc>Conheça os segredos e a receita de sucesso dos restaurantes mais descolados do Brasil. Em um bate-papo gostoso e descontraído, os seus proprietários falam sobre a decoração e o tipo de público que frequenta as casas.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302205500 +0000" channel="LCH2064">
+    <title>Vida Saudável</title>
+    <desc>Acompanhe um bate-papo sobre saúde e alimentação. Perguntas e respostas que ajudam o dia a dia das pessoas, comentadas por uma equipe de nutricionistas sempre prontas a esclarecer as dúvidas dos telespectadores da Chef TV.</desc>
   </programme>
   <programme start="20260228170000 +0000" stop="20260228193500 +0000" channel="LCH5580">
     <title>Transformers</title>
@@ -40869,9 +40749,17 @@
     <title>CSI: Miami : Sósia</title>
     <desc>Um serial killer conhecido como Taunter, que arranca os olhos das vítimas, ataca novamente, mas o principal suspeito do caso tem um álibi incontestável.</desc>
   </programme>
-  <programme start="20260228171500 +0000" stop="20260228184000 +0000" channel="LCH929">
-    <title>Noites de Alface</title>
-    <desc>Depois de perder a esposa, Otto tem problemas para dormir sem o seu remédio natural: um chá de alface que ela preparava. Sozinho e cansado, ele começa a observar o cotidiano de seus peculiares vizinhos.</desc>
+  <programme start="20260302204100 +0000" stop="20260302210100 +0000" channel="LCH157">
+    <title>Young Sheldon : Training Wheels and an Unleashed Chicken</title>
+    <desc>De olho na faculdade, Sheldon está disposto a tirar as rodinhas da bicicleta e tem Missy como professora; Mary e George discutem sobre como educar os filhos.</desc>
+  </programme>
+  <programme start="20260302204700 +0000" stop="20260302211000 +0000" channel="LCH150">
+    <title>Quem Dá Mais? : Negócio Trocado</title>
+    <desc>De volta aos leilões de Montebello, Brandi e um de seus amigos lucram com sua parceria e aproveitam a maré de sorte; Darrell aproveita ao máximo o pouco que tem e Kenny enche seu cofrinho, enquanto experimenta um passatempo desconhecido.</desc>
+  </programme>
+  <programme start="20260302204900 +0000" stop="20260302222800 +0000" channel="LCH932">
+    <title>O Durão</title>
+    <desc>O milionário James King é preso por fraude e deve cumprir pena em San Quentin. O juiz concede 30 dias para organizar os seus negócios. Desesperado, ele procura Darnell Lewis para prepará-lo para a vida atrás das grades.</desc>
   </programme>
   <programme start="20260228171500 +0000" stop="20260228185500 +0000" channel="LCH2080">
     <title>Um Maluco no Golfe</title>
@@ -40888,14 +40776,6 @@
   <programme start="20260228174500 +0000" stop="20260228192000 +0000" channel="LCH5578">
     <title>A Virada Errada</title>
     <desc>Enquanto correm ao hospital para o nascimento do seu bebê, um casal bate em algo na estrada, mas não para. Pouco depois, a recém-mãe faz amizade com uma mulher cujo marido está em coma e descobre a terrível verdade.</desc>
-  </programme>
-  <programme start="20260228175000 +0000" stop="20260228184000 +0000" channel="LCH936">
-    <title>Chicago Fire : Helicóptero</title>
-    <desc>Um helicóptero explode, e as consequências são assustadoras, levando os membros do quartel a entrarem em ação imediatamente.</desc>
-  </programme>
-  <programme start="20260228175400 +0000" stop="20260228184300 +0000" channel="LCH772">
-    <title>Vivendo com o Inimigo - Sombras da Morte : Te Perdoo</title>
-    <desc>Em 2003, um jovem da Geórgia dá 16 tiros na cabeça do próprio pai. Dias depois, o corpo de uma freira é encontrado na beira de uma estrada da Virgínia. A história por trás destes dois crimes assombra os envolvidos até hoje.</desc>
   </programme>
   <programme start="20260228181500 +0000" stop="20260228201500 +0000" channel="LCH79">
     <title>Quebrando Regras 3 - Não se Rendam</title>
@@ -42627,9 +42507,9 @@
     <title>A Confissão</title>
     <desc>Uma mulher determinada a usar a confissão de sua irmã no leito de morte, exonerando de culpa um homem inocente, faz com que ela fique em perigo.</desc>
   </programme>
-  <programme start="20260228165000 +0000" stop="20260228184000 +0000" channel="LCH119">
-    <title>Noites Brutais</title>
-    <desc>Uma jovem descobre que a casa que alugou já está ocupada por um estranho. Contra seu melhor julgamento, ela decide pernoitar, mas logo percebe que há muito mais a temer do que apenas um hóspede inesperado.</desc>
+  <programme start="20260302204500 +0000" stop="20260302222000 +0000" channel="LCH2080">
+    <title>Depois a Louca Sou Eu</title>
+    <desc>Dani só queria levar uma vida normal. Mas, desde criança, vive em descompasso com seu mundo. Enquanto encanta a todos com o talento que a torna uma brilhante escritora, tenta controlar seus medos e constantes crises de ansiedade.</desc>
   </programme>
   <programme start="20260228171500 +0000" stop="20260228194000 +0000" channel="LCH459">
     <title>Mulher-Maravilha</title>
@@ -43745,6 +43625,14 @@
     <title>Bateau Mouche - O Naufrágio da Justiça : A Tempestade Perfeita</title>
     <desc>Famílias são lançadas ao mar revolto até que um pescador se depara com náufragos e corpos. Após um resgate dramático, os sobreviventes passam a noite em busca de familiares. Na investigação criminal, graves irregularidades aparecem.</desc>
   </programme>
+  <programme start="20260302205000 +0000" stop="20260302230000 +0000" channel="LCH154">
+    <title>Podres de Ricos</title>
+    <desc>Rachel Chu é professora de economia nos Estados Unidos e namora Nick Young. Quando Nick convida Rachel para ir ao casamento de um amigo em Singapura, ele esquece de avisá-la que é herdeiro de uma fortuna e um dos solteiros mais cobiçados do local.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302230100 +0000" channel="LCH7141">
+    <title>O Plano Perfeito</title>
+    <desc>Assaltantes invadem um banco e fazem reféns. Enquanto os detetives tentam negociar com o líder dos bandidos, Dalton Russell, que parece estar sempre um passo à frente da polícia, uma enigmática mulher aparece e solicita um encontro a sós com Russell.</desc>
+  </programme>
   <programme start="20260228162200 +0000" stop="20260228192500 +0000" channel="LCH2172">
     <title>Estamos em Casa</title>
     <desc>A cada semana, um novo anfitrião dá as boas-vindas à Casa Feliz e leva até si os melhores convidados, a melhor música e a maior diversão, em uma manhã recheada de surpresas e partilha.</desc>
@@ -43757,20 +43645,12 @@
     <title>Chocolate</title>
     <desc>Camarões, pouco antes da independência. Marc Dalens, sua mulher Aimée e a filha France moram numa pequena subdivisão da Administração Francesa. Marc está sempre ausente e Aimée, para escapar do tédio, dedica-se à sua única paixão: um jardim.</desc>
   </programme>
-  <programme start="20260228174200 +0000" stop="20260228184100 +0000" channel="LCH123">
-    <title>Grêmio x Atlético-MG - Campeonato Brasileiro : Grêmio x Atlético-MG</title>
-    <desc>Pela quarta rodada, o Grêmio recebe o Atlético-MG na Arena do Grêmio, em Porto Alegre, RS. O Imortal Tricolor soma uma vitória e duas derrotas no Brasileirão até o momento, enquanto o Galo empatou duas e perdeu uma das três partidas que disputou.</desc>
-  </programme>
   <programme start="20260228174500 +0000" stop="20260228190000 +0000" channel="LCH2090">
     <title>L&apos;eredità</title>
     <desc>Sette concorrenti si sfidano in diverse prove ad eliminazione, fino a raggiungere la fase finale del gioco, l&apos;imperdibile Ghigliottina. Qui, per vincere, il campione deve indovinare una parola con l&apos;aiuto di alcuni indizi.</desc>
   </programme>
   <programme start="20260228182500 +0000" stop="20260228200000 +0000" channel="LCH2105">
     <title>Especial alfombra roja de los Goya 2026</title>
-  </programme>
-  <programme start="20260228183000 +0000" stop="20260228184500 +0000" channel="LCH3650">
-    <title>The Ghost Writer&apos;s Wife</title>
-    <desc>Toki, a fallen samurai&apos;s daughter, finds common ground with a lonely foreigner over their mutual love of ghost stories.</desc>
   </programme>
   <programme start="20260228183000 +0000" stop="20260228190000 +0000" channel="LCH2071">
     <title>Enfoque Europa: Países, gente, destinos</title>
@@ -46267,6 +46147,18 @@
   <programme start="20260302203000 +0000" stop="20260302210000 +0000" channel="LCH2071">
     <title>RPM</title>
     <desc>Programa sobre el automóvil y la movilidad.</desc>
+  </programme>
+  <programme start="20260302204000 +0000" stop="20260302204500 +0000" channel="LCH2105">
+    <title>Deportes 2</title>
+    <desc>Programa informativo que recoge toda la actualidad deportiva del momento con entrevistas y debates sobre los protagonistas de las próximas jornadas.</desc>
+  </programme>
+  <programme start="20260302204500 +0000" stop="20260302211500 +0000" channel="LCH2105">
+    <title>Cifras y letras</title>
+    <desc>Concurso cuyas pruebas deben superarse gracias al conocimiento y habilidades con las cifras y las letras. Los concursantes luchan por conseguir el título del programa, lo cual les da derecho a ir a la ronda final para tratar de ganar el bote.</desc>
+  </programme>
+  <programme start="20260302205000 +0000" stop="20260302205600 +0000" channel="LCH3650">
+    <title>Mini Program</title>
+    <desc>Featuring a variety of short mini programs..</desc>
   </programme>
   <programme start="20260228170000 +0000" stop="20260228210000 +0000" channel="LCH5670">
     <title>Premiere 9</title>

@@ -119,8 +119,7 @@ def build_epg_xml(programmes: list[dict], output_path: str) -> None:
             continue
         if pid not in channels:
             name = p.get("ChannelName") or p.get("CallLetter") or pid
-            num = p.get("ChannelNumber") or ""
-            channels[pid] = {"display_name": name, "channel_number": num}
+            channels[pid] = {"display_name": name}
 
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -128,11 +127,8 @@ def build_epg_xml(programmes: list[dict], output_path: str) -> None:
     ]
 
     for ch_id, info in sorted(channels.items()):
-        num = escape_xml(info["channel_number"])
         name = escape_xml(info["display_name"])
         lines.append(f'  <channel id="{escape_xml(ch_id)}">')
-        if num:
-            lines.append(f'    <display-name>{num}</display-name>')
         lines.append(f'    <display-name>{name}</display-name>')
         lines.append("  </channel>")
 
