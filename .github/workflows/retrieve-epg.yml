@@ -1,0 +1,38 @@
+name: Retrieve EPG
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch: 
+
+jobs:
+  retrieve:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run retrieve.py
+        run: python retrieve.py
+
+      - name: Commit and push epg.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração em epg.xml"
+          else
+            git commit -m "chore(epg): Atualização do EPG"
+            git push
+          fi
